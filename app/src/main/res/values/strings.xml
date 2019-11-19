@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PagingNews</string>
+    <string name="error_network">No Internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="error_download">Error download</string>
+</resources>
